@@ -24,6 +24,15 @@ Changes made in 2026 to publish it on GitHub Pages:
 - lighter home page: 600 px thumbnails for the rental cards, loaded only when they come into view, and the two banners converted from PNG to JPEG (3.3 MB down to 0.3 MB);
 - accessibility: each card link has a name, card titles follow the heading order, and the pages sit inside a `main` landmark.
 
+## Lighthouse
+
+Measured on the live site on October 21, 2026 (Lighthouse 13.5, median of 3 runs):
+
+| | Performance | Accessibility | Best practices | SEO |
+| --- | --- | --- | --- | --- |
+| Mobile | 84 | 94 | 100 | 100 |
+| Desktop | 98 | 94 | 100 | 100 |
+
 ## Stack
 
 React 18, React Router 6, Sass, Create React App. Deployed on GitHub Pages with GitHub Actions.
