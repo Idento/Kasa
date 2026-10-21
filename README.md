@@ -20,6 +20,7 @@ Changes made in 2026 to publish it on GitHub Pages:
 
 - the router uses hash URLs (`/Kasa/#/about`), so reloading a page or opening a shared link works on static hosting;
 - two components read the current address from `react-router` instead of `window.location`, which gave wrong results once the site lived in a sub-folder.
+- all photos (rentals and hosts) are now CC0 images from StockSnap, stored in the repository; see [PHOTO-CREDITS.md](PHOTO-CREDITS.md).
 
 ## Stack
 
