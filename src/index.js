@@ -1,6 +1,6 @@
 import React from 'react'
 import './styles/index.scss'
-import { BrowserRouter } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import { Route, Routes } from 'react-router-dom'
 import { createRoot } from 'react-dom/client';
 import About from './components/about/About.js'
@@ -13,7 +13,7 @@ import Foot from './components/Footer/Foot'
 const container = document.getElementById('root')
 const root = createRoot(container)
 root.render(
-	<BrowserRouter>
+	<HashRouter>
 		<Header navlist={navlist}/>
 		<Routes>
 			<Route path='/' element={<Home />} />
@@ -22,5 +22,5 @@ root.render(
 			<Route path='/*' element={<Failed />}/>
 		</Routes>
 		<Foot />
-</BrowserRouter>
+</HashRouter>
 )

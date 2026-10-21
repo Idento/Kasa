@@ -1,9 +1,11 @@
 import React, {useRef, useState } from 'react'
+import { useLocation } from 'react-router-dom'
 import './styles/deployer.scss'
 import arrow from '../assets/arrow.png'
 
 export default function Deployer({title, text, k}) {
    const [status, setStatus] = useState()
+   const { pathname } = useLocation()
     const textcontent = useRef(null);
 
     function deploy(e) {
@@ -11,7 +13,7 @@ export default function Deployer({title, text, k}) {
     }
 
   return (
-    <section className= {`deployer ${window.location.pathname.split('/')[1].toString()}`} key={k + "deployer"}>
+    <section className= {`deployer ${pathname.split('/')[1]}`} key={k + "deployer"}>
         <div className={!status ? 'deployer__controller__up rotate' : 'deployer__controller__down rotate'} key={k + "dc"}>
             <h2 key={k + "h2"}>{title}</h2>
             <img src={arrow} className='arrow' alt='arrow controller' onClick={deploy} key={k + "img"}/>
