@@ -5,7 +5,7 @@
     width: 80%;
     height: 230px;
     border-radius: 20px;
-    background-image: url('../../assets/titlebackground.png');
+    background-image: url('../../assets/titlebackground.jpg');
     background-size: 100% auto;
     background-position: 50% 52%;
     background-blend-mode: multiply;
@@ -31,5 +31,5 @@
 
 .box__about{
     @extend .box__title;
-    background-image: url('../../assets/about.png');
+    background-image: url('../../assets/about.jpg');
 }

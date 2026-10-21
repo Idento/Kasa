@@ -2,7 +2,7 @@
 	{
 		"id": "c67ab8a7",
 		"title": "Appartement cosy",
-		"cover": "images/rentals/rental-01.jpg",
+		"cover": "images/rentals/thumbs/rental-01.jpg",
 		"pictures": [
 			"images/rentals/rental-01.jpg",
 			"images/rentals/rental-04.jpg",
@@ -32,7 +32,7 @@
 	{
 		"id": "b9123946",
 		"title": "Magnifique appartement proche Canal Saint Martin",
-		"cover": "images/rentals/rental-10.jpg",
+		"cover": "images/rentals/thumbs/rental-10.jpg",
 		"pictures": [
 			"images/rentals/rental-10.jpg",
 			"images/rentals/rental-11.jpg",
@@ -65,7 +65,7 @@
 	{
 		"id": "46d188c5",
 		"title": "Studio de charme - Buttes Chaumont",
-		"cover": "images/rentals/rental-17.jpg",
+		"cover": "images/rentals/thumbs/rental-17.jpg",
 		"pictures": [
 			"images/rentals/rental-17.jpg",
 			"images/rentals/rental-18.jpg",
@@ -94,7 +94,7 @@
 	{
 		"id": "7af00cd6",
 		"title": "Nid douillet au coeur du 11ème",
-		"cover": "images/rentals/rental-23.jpg",
+		"cover": "images/rentals/thumbs/rental-23.jpg",
 		"pictures": [
 			"images/rentals/rental-23.jpg",
 			"images/rentals/rental-26.jpg",
@@ -125,7 +125,7 @@
 	{
 		"id": "0979876d",
 		"title": "Appartement de Standing - 10e",
-		"cover": "images/rentals/rental-33.jpg",
+		"cover": "images/rentals/thumbs/rental-33.jpg",
 		"pictures": [
 			"images/rentals/rental-33.jpg",
 			"images/rentals/rental-34.jpg",
@@ -156,7 +156,7 @@
 	{
 		"id": "f72a452f",
 		"title": "Studio d'artiste",
-		"cover": "images/rentals/rental-71.jpg",
+		"cover": "images/rentals/thumbs/rental-71.jpg",
 		"pictures": [
 			"images/rentals/rental-71.jpg",
 			"images/rentals/rental-72.jpg",
@@ -184,7 +184,7 @@
 	{
 		"id": "b4c67936",
 		"title": "Cheap - Studio 18ème",
-		"cover": "images/rentals/rental-00.jpg",
+		"cover": "images/rentals/thumbs/rental-00.jpg",
 		"pictures": [
 			"images/rentals/rental-00.jpg",
 			"images/rentals/rental-13.jpg",
@@ -215,7 +215,7 @@
 	{
 		"id": "bc6f7112",
 		"title": "Superbe appartement proche Tour Eiffel",
-		"cover": "images/rentals/rental-30.jpg",
+		"cover": "images/rentals/thumbs/rental-30.jpg",
 		"pictures": [
 			"images/rentals/rental-30.jpg",
 			"images/rentals/rental-55.jpg",
@@ -249,7 +249,7 @@
 	{
 		"id": "cb2f9222",
 		"title": "Suite familiale",
-		"cover": "images/rentals/rental-04.jpg",
+		"cover": "images/rentals/thumbs/rental-04.jpg",
 		"pictures": [
 			"images/rentals/rental-04.jpg",
 			"images/rentals/rental-05.jpg",
@@ -280,7 +280,7 @@
 	{
 		"id": "d60ca600",
 		"title": "Appartement moderne sur parc",
-		"cover": "images/rentals/rental-11.jpg",
+		"cover": "images/rentals/thumbs/rental-11.jpg",
 		"pictures": [
 			"images/rentals/rental-11.jpg",
 			"images/rentals/rental-12.jpg",
@@ -312,7 +312,7 @@
 	{
 		"id": "2cf259e1",
 		"title": "Charmant Studio Marais",
-		"cover": "images/rentals/rental-16.jpg",
+		"cover": "images/rentals/thumbs/rental-16.jpg",
 		"pictures": [
 			"images/rentals/rental-16.jpg",
 			"images/rentals/rental-17.jpg",
@@ -341,7 +341,7 @@
 	{
 		"id": "5323c29b",
 		"title": "Studio fonctionnel République",
-		"cover": "images/rentals/rental-22.jpg",
+		"cover": "images/rentals/thumbs/rental-22.jpg",
 		"pictures": [
 			"images/rentals/rental-22.jpg",
 			"images/rentals/rental-23.jpg",
@@ -374,7 +374,7 @@
 	{
 		"id": "af6d2d48",
 		"title": "Bungalow dans la forêt",
-		"cover": "images/rentals/rental-65.jpg",
+		"cover": "images/rentals/thumbs/rental-65.jpg",
 		"pictures": [
 			"images/rentals/rental-65.jpg",
 			"images/rentals/rental-00.jpg",
@@ -405,7 +405,7 @@
 	{
 		"id": "7cbb378e",
 		"title": "Grande Maison proche banlieue",
-		"cover": "images/rentals/rental-37.jpg",
+		"cover": "images/rentals/thumbs/rental-37.jpg",
 		"pictures": [
 			"images/rentals/rental-37.jpg",
 			"images/rentals/rental-69.jpg",
@@ -439,7 +439,7 @@
 	{
 		"id": "ba55a0cc",
 		"title": "Maison T5 - Le Vésinet",
-		"cover": "images/rentals/rental-38.jpg",
+		"cover": "images/rentals/thumbs/rental-38.jpg",
 		"pictures": [
 			"images/rentals/rental-38.jpg",
 			"images/rentals/rental-54.jpg",
@@ -475,7 +475,7 @@
 	{
 		"id": "1e181317",
 		"title": "Loft de Luxe à la Défense",
-		"cover": "images/rentals/rental-32.jpg",
+		"cover": "images/rentals/thumbs/rental-32.jpg",
 		"pictures": [
 			"images/rentals/rental-32.jpg",
 			"images/rentals/rental-33.jpg",
@@ -508,7 +508,7 @@
 	{
 		"id": "1e180563",
 		"title": "Charmant apt aux portes de Paris",
-		"cover": "images/rentals/rental-63.jpg",
+		"cover": "images/rentals/thumbs/rental-63.jpg",
 		"pictures": [
 			"images/rentals/rental-63.jpg",
 			"images/rentals/rental-68.jpg",
@@ -539,7 +539,7 @@
 	{
 		"id": "2139a317",
 		"title": "Cheap - Chambre Paris 20",
-		"cover": "images/rentals/rental-03.jpg",
+		"cover": "images/rentals/thumbs/rental-03.jpg",
 		"pictures": [
 			"images/rentals/rental-03.jpg"
 		],
@@ -563,7 +563,7 @@
 	{
 		"id": "6ff132c6",
 		"title": "Charmant studio",
-		"cover": "images/rentals/rental-02.jpg",
+		"cover": "images/rentals/thumbs/rental-02.jpg",
 		"pictures": [
 			"images/rentals/rental-02.jpg",
 			"images/rentals/rental-00.jpg",
@@ -592,7 +592,7 @@
 	{
 		"id": "cb02d69b",
 		"title": "Magnifique appartement Rivoli",
-		"cover": "images/rentals/rental-19.jpg",
+		"cover": "images/rentals/thumbs/rental-19.jpg",
 		"pictures": [
 			"images/rentals/rental-19.jpg"
 		],

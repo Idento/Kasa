@@ -21,6 +21,8 @@ Changes made in 2026 to publish it on GitHub Pages:
 - the router uses hash URLs (`/Kasa/#/about`), so reloading a page or opening a shared link works on static hosting;
 - two components read the current address from `react-router` instead of `window.location`, which gave wrong results once the site lived in a sub-folder.
 - all photos (rentals and hosts) are now CC0 images from StockSnap, stored in the repository; see [PHOTO-CREDITS.md](PHOTO-CREDITS.md).
+- lighter home page: 600 px thumbnails for the rental cards, loaded only when they come into view, and the two banners converted from PNG to JPEG (3.3 MB down to 0.3 MB);
+- accessibility: each card link has a name, card titles follow the heading order, and the pages sit inside a `main` landmark.
 
 ## Stack
 

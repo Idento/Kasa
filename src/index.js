@@ -15,12 +15,14 @@ const root = createRoot(container)
 root.render(
 	<HashRouter>
 		<Header navlist={navlist}/>
+		<main>
 		<Routes>
 			<Route path='/' element={<Home />} />
 			<Route path='/about' element={<About/>}/>
 			<Route path='/logement/:id' element={<Loc />}/>
 			<Route path='/*' element={<Failed />}/>
 		</Routes>
+		</main>
 		<Foot />
 </HashRouter>
 )
